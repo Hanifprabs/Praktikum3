@@ -27,7 +27,7 @@
     echo ("Hasil pengurangan a dan b adalah = $kurang<br>");
     echo ("Hasil perkalian a dan b adalah = $kali <br>");
     echo ("Hasil pembagian a dan b adalah = $bagi <br>");
-    $nama = "ITSPKU";
+    $nama = "ITSPKU Muhammadiyah Surakarta";
     $garis= "=====================================";
     echo "<p>";
     echo $garis."<br>";
